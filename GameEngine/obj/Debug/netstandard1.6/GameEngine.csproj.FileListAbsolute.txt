@@ -1,0 +1,8 @@
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
