@@ -10,7 +10,7 @@ namespace GameEngine
             {
                 throw new ArgumentNullException(nameof(name));
             }
-            
+
             if (isBoss)
             {
                 if (!IsValidBossName(name))
