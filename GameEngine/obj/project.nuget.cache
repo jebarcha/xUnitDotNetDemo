@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A+411PqfeK//z/0ur2A6L2JlNMucV5j01zmOPn/TiVunKxdtgZo/5JPtMNxdeIA76BbBkql1U/Kloz2asEmh7g==",
+  "dgSpecHash": "Q8cFEx/bmeDDKTIVcyBD/9zQxZp/N9DcxhppUdgnpqLflRmBZoOWsl4BZd6jAtGNJTnb1ER1fuLAjLYrWlIeww==",
   "success": true,
   "projectFilePath": "C:\\MisCursos\\DotNetxUnitTest\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj",
   "expectedPackageFiles": [
@@ -74,6 +74,7 @@
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\J.Jesus\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512",
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\J.Jesus\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
