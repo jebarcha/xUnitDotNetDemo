@@ -1,3 +1,4 @@
+using GameEngine.Tests;
 using System;
 using Xunit;
 using Xunit.Abstractions;
@@ -136,12 +137,11 @@ namespace GameEngine.Tests1
         {
             Assert.PropertyChanged(_sut, "Health", () => _sut.TakeDamage(10));
         }
-        
+
         [Theory]
-        [InlineData(0, 100)]
-        [InlineData(1, 99)]
-        [InlineData(50, 50)]
-        [InlineData(101, 1)]
+        //[MemberData(nameof(ExternalHealthDamageTestData.TestData),
+        //    MemberType = typeof(ExternalHealthDamageTestData))]
+        [HealthDamageData]
         public void TakeDamage(int damage, int expectedHealth) 
         {
             _sut.TakeDamage(damage);

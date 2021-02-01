@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "C:\\MisCursos\\DotNetxUnitTest\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj": {
                 "projectPath": "C:\\MisCursos\\DotNetxUnitTest\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj"
@@ -46,6 +47,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -79,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -110,6 +112,7 @@
         },
         "frameworks": {
           "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
             "projectReferences": {}
           }
         },
@@ -121,6 +124,7 @@
       },
       "frameworks": {
         "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
           "dependencies": {
             "NETStandard.Library": {
               "target": "Package",
@@ -132,7 +136,7 @@
               "version": "[4.3.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -96,3 +96,4 @@ C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine.Tests1\obj
 C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine.Tests1\obj\Debug\netcoreapp3.1\GameEngine.Tests1.dll
 C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine.Tests1\obj\Debug\netcoreapp3.1\GameEngine.Tests1.pdb
 C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine.Tests1\obj\Debug\netcoreapp3.1\GameEngine.Tests1.genruntimeconfig.cache
+C:\MisCursos\DotNetxUnitTest\02\demos\after\02StartingTest\GameEngine.Tests1\bin\Debug\netcoreapp3.1\TestData.csv
